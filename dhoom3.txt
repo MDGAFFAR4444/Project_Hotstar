@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>Hotstar | dhoom3 </title>
+</head>
+<body>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4xl9KfUg8Lc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h1 style ="background:orange;padding:10" align=center> Avatar 2 </h1>
+<h3 style="background:orange;padding:10">Description </h3>
+
+<hr>
+
+<table style=border:2px silid green;>
+
+
+
+
+<p style="border:2px solid orange;padding:30">dhoom3 is an American media franchise created by James Avatar (also marketed as James Cameron's Avatar) is a 2009 epic science fiction film directed, written, co-produced and co-edited by James Cameron, and starring Sam Worthington, Zoe Saldana, Stephen Lang, Michelle Rodriguez,[6] and Sigourney Weaver.[7][8] It is set in the mid-22nd century when humans are colonizing Pandora, a lush habitable moon of a gas giant in the Alpha Centauri star system, in order to mine the valuable mineral unobtanium.[9][10][11] The expansion of the mining colony threatens the continued existence of a local tribe of Na'vi – a humanoid species indigenous to Pandora. The title of the film refers to a genetically engineered Na'vi body operated from the brain of a remotely located human that is used to interact with the natives of Pandora.[12] Cameron, which consists of a planned series of epic science fiction films produced by Lightstorm Entertainment and distributed by 20th Century Studios, as well as associated merchandise, video games and theme park attractions.  </p>
+
+<td><a href="front.html"> home </a></td>
+
+
+
+
+
+</body>
+</html>
